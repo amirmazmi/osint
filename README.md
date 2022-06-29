@@ -36,5 +36,5 @@ Geolocation
 ### Paid
 1. https://sociallinks.io/
     * extract, analyse and visualise data from open sources including social media, messengers, blockchains, and the Dark Web
-3. https://www.nexvisionlab.com/ - real-time intelligence from the Whole Web (Clear Web, Dark Web, and Social Media)
-4. 
+2. https://www.nexvisionlab.com/ - real-time intelligence from the Whole Web (Clear Web, Dark Web, and Social Media)
+<br><br>
