@@ -11,6 +11,7 @@ General
 2. Google-Fu (Google dork)
 3. https://www.paterva.com/index.php 
     * REGISTRATION - graphical link analysis tool for gathering and connecting information for investigative tasks
+4. Nixintel's OSINT tool list - https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list
 <br>  
 
 
